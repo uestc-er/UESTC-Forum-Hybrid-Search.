@@ -1,0 +1,15 @@
+# 基于混合检索的校园论坛垂直搜索引擎依赖
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit==1.28.1
+chromadb==0.4.18
+rank-bm25==0.2.2
+jieba==0.42.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+sentence-transformers==2.2.2
+pydantic==2.5.0
+numpy==1.24.3
+pandas==2.1.3
+lxml==4.9.3
+python-multipart==0.0.6
